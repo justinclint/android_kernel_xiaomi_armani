@@ -88,3 +88,4 @@ kmsg
 std*.log
 build_kernel
 workspace/
+lesser_modules
