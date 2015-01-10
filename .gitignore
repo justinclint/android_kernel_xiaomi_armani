@@ -90,3 +90,4 @@ build_kernel
 workspace/
 lesser_modules
 releases
+kernel_make
