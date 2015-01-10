@@ -84,3 +84,7 @@ GTAGS
 *.orig
 *~
 \#*#
+kmsg
+std*.log
+build_kernel
+workspace/
